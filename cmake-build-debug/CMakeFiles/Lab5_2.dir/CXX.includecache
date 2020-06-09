@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-260/mod_5/Lab5-2/CSVparser.hpp
+stdexcept
+-
+string
+-
+vector
+-
+list
+-
+sstream
+-
+
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-260/mod_5/Lab5-2/HashTable.cpp
+algorithm
+-
+climits
+-
+iostream
+-
+string
+-
+time.h
+-
+CSVparser.hpp
+/Users/jef.dewitt/Documents/SNHU/current_courses/CS-260/mod_5/Lab5-2/CSVparser.hpp
+
